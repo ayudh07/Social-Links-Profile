@@ -1,37 +1,37 @@
-@media (min-width: 800px) and (max-width: 1024px){
+@media (min-width: 800px) and (max-width: 1023px){
     html, body{
         font-size: 10.5px;
     }
 }
-@media (min-width: 1025px) and (max-width: 1280px){
+@media (min-width: 1024px) and (max-width: 1279px){
     html, body{
         font-size: 12px;
     }
 }
-@media (min-width: 1281px) and (max-width: 1366px){
+@media (min-width: 1280px) and (max-width: 1365px){
     html, body{
         font-size: 13px;
     }
 }
- @media (min-width: 1367px) and (max-width: 1600px) {
+ @media (min-width: 1366px) and (max-width: 1599px) {
         html,
         body {
             font-size: 16px;
         }
     }
-@media (min-width: 1601px) and (max-width: 1920px) {
+@media (min-width: 1600px) and (max-width: 1919px) {
     html,
     body {
         font-size: 17px;
     }
 }
-@media (min-width: 1921px) and (max-width: 2560px) {
+@media (min-width: 1920px) and (max-width: 2559px) {
     html,
     body {
         font-size: 24px;
     }
 }
-@media (min-width: 2561px) {
+@media (min-width: 2560px) {
     html,
     body {
         font-size: 28px;
