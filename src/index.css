@@ -90,3 +90,32 @@ html, body{
   font-size: .875rem;
   font-weight: 400;
 }
+
+/* Mobile fonts */
+
+@media (min-width: 250px) and (max-width: 979px) {
+  h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.7rem;
+  }
+
+  h3 {
+    font-size: 1.4rem;
+  }
+
+  h4 {
+    font-size: 1.2rem;
+  }
+
+  h5 {
+    font-size: 1.1rem;
+  }
+
+  h6 {
+    font-size: 1rem;
+  }
+}
+
