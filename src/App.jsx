@@ -14,7 +14,7 @@ function App() {
           <h2 className='text-white profile-name'>Ayudh Sarkar</h2>
           <p className='text-white profile-location'>Hyderabad, India</p>
         </div>
-        <span className='text-white profile-quote'>&quot;Front-end developer and avid reader.&quot;</span>
+        <span className='text-white profile-quote'>&quot;Front-end developer and Product Designer.&quot;</span>
         <div className='button-group'>
           {data.map((data, index) =>{
             return <Button title={data.title} key={index} predefinedStyleTags='social-button text-white'/>
